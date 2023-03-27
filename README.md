@@ -7,6 +7,7 @@
 - :) Also please check out https://codelyfe.github.io 
 - View My Link Tree for more Links https://linktr.ee/codelyfe
 - *NEW* shipwr3ck.com/chat
+- Check out my *NEW* blog https://pico-tech-theories.blogspot.com
 <!---
 codelyfe/codelyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
