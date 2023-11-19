@@ -1,4 +1,4 @@
-- *WORDPRESS PLUGIN BUNDLE* [Leet-WordPress-Plugins](https://github.com/codelyfe/Leet-WordPress-Plugins)
+- *NEW* [Stupid Simple CMS ( Blogger )](https://github.com/codelyfe/Stupid-Simple-CMS)
 - 👋 Hi, I’m @codelyfe
 - I Provide Free Tech Support: https://support-desk.bss.design/index.html
 - 👀 I’m interested in restoring broken code.
